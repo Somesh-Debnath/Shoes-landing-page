@@ -1,6 +1,6 @@
 # Shoes-landing-page
 
-##Install sass/scss 
+## Install sass/scss 
    npm i -g sass
-##Map sass to css file using
+## Map sass to css file using
   sass --watch input.scss output.css
